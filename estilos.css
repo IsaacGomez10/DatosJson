@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.card{
+    width: 600px;
+    padding: 60px;
+    background: rgb(255, 255, 255);
+    border-radius: 3px;
+    box-shadow: 0px 0px 30px rgba(216, 216, 216, 0.3);
+  }
+  .logo{
+    width: 200px;
+    margin: 0 550px;
+}
+  .contact-form{  
+    width: 520px; 
+    height: auto;
+    margin: 10px 400px;
+    border-radius: 10px;  
+    padding-top: 30px;
+    padding-bottom: 20px;  
+    background-color: #fbfbfb; 
+    padding-left: 30px; 
+  }
+
+ *{
+    font-family: "Open Sans", sans-serif;
+  }
+.input{
+    padding: 5px 0;
+    border-radius: 3px;
+    border: 1px solid #bbbbbb;
+    transition: .3s ease all;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+.input:focus{
+    border: 2px solid#1c78da;
+    outline: none;
+  }
+
+  .buscar{
+      border: none;
+      color: #ffffff;
+      background: #202020;
+      border-radius: 10px;
+      margin: 10px 20px;
+      padding: 10px 20px;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      -o-border-radius: 10px;
+}
+.buscar:hover{
+    background: #161616;
+}
+  /*--helps--*/
+.no-margen { margin: 0 }
+.no-margen-superior { margin-top: 0 }
+.no-margen-inferior { margin-bottom: 0 }
+.no-margen-izquierdo { margin-left: 0 }
+.no-margen-derecho { margin-right: 0 }
+
+.margen-inferior {margin-bottom: 20px;}
+.margen-superior {margin-top: 20px;}
+
+.texto-centrado {text-align: center;}
+.texto-izquierda {text-align: left;}
+.texto-derecha {text-align: right;}
+.centrado{align-items: center;}
+
+.ancho{
+  width: 90%;
+  max-width: 1000px;
+  margin:auto;
+  overflow:hidden;
+}
