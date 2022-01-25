@@ -1,2 +1,2 @@
 # DatosJson
-Usando Ajax y una Clase para obtener datos de objeto JSON
+Usando una Clase para obtener datos de objeto JSON
